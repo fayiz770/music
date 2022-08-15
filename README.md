@@ -1,16 +1,13 @@
 # music
 
-A new Flutter project.
+This project is the first version of the <music> game, and the next version will come soon.
+This is my fourth point of mobile application development in flutter and this app <music> is the fourth application that I'm developing.
+For now it just play some sounds that is like piano, in the next version will grow.
+Now just I'm learning the flutter with Dart.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Github:[https://github.com/fayiz770]
+Facebook:[https://www.facebook.com/mohammadwaris.fayiz/]
+Twitter:[https://twitter.com/WarisFayiz]
+Instagram:[https://www.instagram.com/warisfayiz/]
+YouTube:[https://www.youtube.com/channel/UCc7CebmVRS8I6TKo_SNjyOQ]
