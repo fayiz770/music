@@ -1,6 +1,6 @@
 # music
 
-This project is the first version of the <music> game, and the next version will come soon.
+This project is the first version of the music game, and the next version will come soon.
 This is my fourth point of mobile application development in flutter and this app <music> is the fourth application that I'm developing.
 For now it just play some sounds that is like piano, in the next version will grow.
 Now just I'm learning the flutter with Dart.
